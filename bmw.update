@@ -1,0 +1,16 @@
+{
+    "appid": "H56D240F1",
+    "iOS": {
+        "version": "1.0.0",
+        "title": "币马温版本更新",
+        "note": "更新如下内容：\n",
+        "url": "http://ycauction.taofo1.com:9080/rp666.apk"
+    },
+    "Android": {
+        "version": "1.0.96",
+        "dbVersion": "1.0.96.0",
+        "title": "币马温版本更新:1.0.96",
+        "note": "更新如下内容：币马温版本更新_1.0.93",
+        "url": "http://47.98.169.70:9080/BMW1093.apk"
+    }
+}
