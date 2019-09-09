@@ -7,10 +7,10 @@
         "url": "http://ycauction.taofo1.com:9080/rp666.apk"
     },
     "Android": {
-        "version": "1.2.200",
-        "dbVersion": "1.2.200.0",
-        "title": "币马温版本更新:1.2.200",
-        "note": "更新如下内容：红包,快讯详情等",
-        "url": "http://114.116.229.250/BMW12200.apk"
+        "version": "1.2.310",
+        "dbVersion": "1.2.310.0",
+        "title": "币马温版本更新:1.2.310",
+        "note": "更新如下内容：红包,快讯详情，个人中心等",
+        "url": "http://114.116.229.250/BMW12310.apk"
     }
 }
