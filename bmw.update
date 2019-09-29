@@ -7,10 +7,10 @@
         "url": "https://bmwdex.com/update/BMW12931.apk"
     },
     "Android": {
-        "version": "1.2.970",
-        "dbVersion": "1.2.970.0",
-        "title": "币马温版本更新:1.2.970",
-        "note": "更新如下内容：我的消息，红包口令，联系我们，重复升级等等",
-        "url": "https://bmwdex.com/update/BMW12970.apk"
+        "version": "1.2.971",
+        "dbVersion": "1.2.971.0",
+        "title": "币马温版本更新:1.2.971",
+        "note": "更新如下内容：红包分享，我的消息，红包口令，联系我们，重复升级等等",
+        "url": "https://bmwdex.com/update/BMW12971.apk"
     }
 }
