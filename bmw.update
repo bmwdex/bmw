@@ -7,10 +7,10 @@
         "url": "https://bmwdex.com/update/BMW12931.apk"
     },
     "Android": {
-        "version": "1.2.981",
-        "dbVersion": "1.2.981.0",
-        "title": "币马温版本更新:1.2.981",
-        "note": "更新如下内容：币讯分享，红包分享等等",
-        "url": "https://rp666.net/update/BMW12981.apk"
+        "version": "1.2.982",
+        "dbVersion": "1.2.982.0",
+        "title": "币马温版本更新:1.2.982",
+        "note": "更新如下内容：行情详情获取ticker方式",
+        "url": "https://rp666.net/update/BMW12982.apk"
     }
 }
