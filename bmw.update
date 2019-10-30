@@ -7,10 +7,10 @@
         "url": "https://bmwdex.com/update/BMW12931.apk"
     },
     "Android": {
-        "version": "1.3.125",
-        "dbVersion": "1.3.125.0",
-        "title": "币马温版本更新:1.3.125",
-        "note": "更新如下内容：发现详情,资金曲线,策略列表",
-        "url": "https://rp666.net/update/BMW13125.apk"
+        "version": "1.3.130",
+        "dbVersion": "1.3.130.0",
+        "title": "币马温版本更新:1.3.130",
+        "note": "更新如下内容：发现详情,资金曲线,策略列表，预言家静态页面",
+        "url": "https://rp666.net/update/BMW13130.apk"
     }
 }
